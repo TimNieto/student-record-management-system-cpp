@@ -115,7 +115,9 @@ Student-Record-Management-System-in-C-
 
 ## License
 
-This project is currently not licensed. Add a license file if you want others to use, modify, or distribute the code.
+This project is for educational and portfolio purposes only. All rights are reserved.
+
+You may view the source code, but you may not copy, modify, distribute, or use this code without permission from the author.
 
 ## Author
 
