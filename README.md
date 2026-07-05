@@ -36,7 +36,7 @@ Each student record includes:
 ## Project Structure
 
 ```text
-student-record-management-system-cpp/
+cpp-student-record-management-system/
 ├── .gitignore
 ├── README.md
 ├── assets/
@@ -51,8 +51,8 @@ student-record-management-system-cpp/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/TimNieto/student-record-management-system-cpp.git
-cd student-record-management-system-cpp
+git clone https://github.com/TimNieto/cpp-student-record-management-system.git
+cd cpp-student-record-management-system
 ```
 
 ### Compile
